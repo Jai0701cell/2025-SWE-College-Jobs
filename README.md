@@ -1,6 +1,6 @@
-# 2025 Software Engineering Internship & New Grad Positions
+# 2025 Credit Manager Internship & New Grad Positions
 
-This repository is a comprehensive list of Software Engineering jobs for college students in search of **internships** or **new graduate** positions. The positions are updated daily, and we prioritize jobs posted within the last 120 days.
+This repository is a comprehensive list of Credit Manager jobs for college students in search of **internships** or **new graduate** positions. The positions are updated daily, and we prioritize jobs posted within the last 120 days.
 
 ### USA Positions :eagle:
 - [Internships :books:](/) - **126** available ([FAANG+](#faang), [Quant](#quant), [Other](#other))
